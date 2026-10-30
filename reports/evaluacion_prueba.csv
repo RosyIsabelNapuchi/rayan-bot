@@ -1,0 +1,41 @@
+pregunta,intent_ok,intent_obtenido,entidad_ok,entidad_obtenido,anio_ok,anio_obtenido,mes_ok,mes_obtenido,todo_ok,dimension_ok,dimension_obtenido,limite_ok,limite_obtenido
+buenos dias rayan,True,saludo,True,,True,,True,,True,,,,
+muchas gracias,True,agradecimiento,True,,True,,True,,True,,,,
+que puedes hacer,True,ayuda,True,,True,,True,,True,,,,
+como te llamas,True,identidad,True,,True,,True,,True,,,,
+dime la venta total de 2026,True,venta_total,True,,True,2026.0,True,,True,,,,
+cuanto facturamos en diciembre 2024,True,venta_total,True,,True,2024.0,True,12.0,True,,,,
+ventas 06/2025,True,venta_total,True,,True,2025.0,True,6.0,True,,,,
+cuanto se vendio el año pasado,True,venta_total,True,,True,2025.0,True,,True,,,,
+cuanto nos compro la conservera lobo marino en 2025,True,venta_entidad,True,Conservera Lobo Marino,True,2025.0,True,,True,,,,
+facturacion de constructora horizonte andino 2026,True,venta_entidad,True,Constructora Horizonte Andino,True,2026.0,True,,True,,,,
+ventas de minera vicuña dorada en febrero 2025,True,venta_entidad,True,Compañía Minera Vicuña Dorada,True,2025.0,True,2.0,True,,,,
+cuanto vendio diego huaman en 2026,True,venta_entidad,True,Diego Huamán,True,2026.0,True,,True,,,,
+ventas del vendedor felipe castro 2024,True,venta_entidad,True,Felipe Castro,True,2024.0,True,,True,,,,
+venta de la linea refrigeracion en julio 2026,True,venta_entidad,True,Refrigeracion,True,2026.0,True,7.0,True,,,,
+ventas de sellomar 2025,True,venta_entidad,True,Sellomar,True,2025.0,True,,True,,,,
+venta papelera del rimac,True,venta_entidad,True,Papelera del Rímac,True,,True,,True,,,,
+top 10 clientes 2026,True,top,True,,True,2026.0,True,,True,True,clientes,True,10.0
+los 5 mejores vendedores de 2025,True,top,True,,True,2025.0,True,,True,True,vendedores,True,5.0
+quienes nos compran mas este año,True,top,True,,True,2026.0,True,,True,True,clientes,True,10.0
+principales marcas 2024,True,top,True,,True,2024.0,True,,True,True,marcas,True,10.0
+top 15 productos 2026,True,top,True,,True,2026.0,True,,True,True,productos,True,15.0
+que lineas venden mas,True,top,True,,True,,True,,True,True,lineas,True,10.0
+que compro textil algodonera sur el año pasado,True,que_compro,True,Textil Algodonera Sur,True,2025.0,True,,True,,,,
+que productos le vendimos a minera quebrada azul en 2026,True,que_compro,True,Minera Quebrada Azul,True,2026.0,True,,True,,,,
+detalle de compra de envases pacifico norte,True,que_compro,True,Envases Pacífico Norte,True,,True,,True,,,,
+margen de minera cerro turquesa 2025,True,margen,True,Minera Cerro Turquesa,True,2025.0,True,,True,,,,
+cual es el margen de la marca filtrex,True,margen,True,Filtrex,True,,True,,True,,,,
+ganancia de la linea transmision 2026,True,margen,True,Transmision,True,2026.0,True,,True,,,,
+compara las ventas de 2026 con 2025,True,comparar,True,,True,2026.0,True,,True,,,,
+cuanto crecio pesquera corvina real,True,comparar,True,Pesquera Corvina Real,True,,True,,True,,,,
+variacion de bruno salazar 2025 vs 2024,True,comparar,True,Bruno Salazar,True,2025.0,True,,True,,,,
+dame un resumen del 2025,True,resumen,True,,True,2025.0,True,,True,,,,
+estado general,True,resumen,True,,True,,True,,True,,,,
+cuadra el mayor con el detalle?,True,conciliacion,True,,True,,True,,True,,,,
+diagnostico comercial vs financiero 2024,True,conciliacion,True,,True,2024.0,True,,True,,,,
+que es el ticket promedio,True,conceptual,True,,True,,True,,True,,,,
+explicame que es la conciliacion,True,conceptual,True,,True,,True,,True,,,,
+venta de minera los alamos 2025,True,venta_entidad,True,,True,2025.0,True,,True,,,,
+ventas de plasticos ribera en el mes pasado,True,venta_entidad,True,Plásticos Ribera,True,2026.0,True,8.0,True,,,,
+cual es el clima hoy,True,desconocido,True,,True,,True,,True,,,,

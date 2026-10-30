@@ -1,0 +1,32 @@
+{
+  "desarrollo": {
+    "preguntas": 37,
+    "exactas": 1.0,
+    "intent_acierto": 1.0,
+    "entidad_acierto": 1.0,
+    "dimension_acierto": 1.0,
+    "anio_acierto": 1.0,
+    "mes_acierto": 1.0,
+    "limite_acierto": 1.0
+  },
+  "prueba": {
+    "preguntas": 40,
+    "exactas": 1.0,
+    "intent_acierto": 1.0,
+    "entidad_acierto": 1.0,
+    "dimension_acierto": 1.0,
+    "anio_acierto": 1.0,
+    "mes_acierto": 1.0,
+    "limite_acierto": 1.0
+  },
+  "dificiles": {
+    "preguntas": 20,
+    "exactas": 0.7,
+    "intent_acierto": 0.7,
+    "entidad_acierto": 1.0,
+    "dimension_acierto": 0.5,
+    "anio_acierto": 1.0,
+    "mes_acierto": 1.0,
+    "limite_acierto": 1.0
+  }
+}

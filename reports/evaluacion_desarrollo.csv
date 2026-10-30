@@ -1,0 +1,38 @@
+pregunta,intent_ok,intent_obtenido,entidad_ok,entidad_obtenido,anio_ok,anio_obtenido,mes_ok,mes_obtenido,todo_ok,dimension_ok,dimension_obtenido,limite_ok,limite_obtenido
+hola,True,saludo,True,,True,,True,,True,,,,
+buenas tardes,True,saludo,True,,True,,True,,True,,,,
+gracias,True,agradecimiento,True,,True,,True,,True,,,,
+ayuda,True,ayuda,True,,True,,True,,True,,,,
+quien eres,True,identidad,True,,True,,True,,True,,,,
+venta 2025,True,venta_total,True,,True,2025.0,True,,True,,,,
+cuanto vendimos en 2024,True,venta_total,True,,True,2024.0,True,,True,,,,
+ventas de enero 2026,True,venta_total,True,,True,2026.0,True,1.0,True,,,,
+cuanto se facturo en marzo 2025,True,venta_total,True,,True,2025.0,True,3.0,True,,,,
+venta de este año,True,venta_total,True,,True,2026.0,True,,True,,,,
+venta Minera Cóndor de Plata 2025,True,venta_entidad,True,Minera Cóndor de Plata,True,2025.0,True,,True,,,,
+cuanto le vendimos a minera condor en marzo 2026,True,venta_entidad,True,Minera Cóndor de Plata,True,2026.0,True,3.0,True,,,,
+ventas de pesquera bahia serena 2024,True,venta_entidad,True,Pesquera Bahía Serena,True,2024.0,True,,True,,,,
+ventas de Ana 2025,True,venta_entidad,True,Ana Torres,True,2025.0,True,,True,,,,
+cuanto vendio carla mendoza el año pasado,True,venta_entidad,True,Carla Mendoza,True,2025.0,True,,True,,,,
+venta de la linea bombas 2026,True,venta_entidad,True,Bombas,True,2026.0,True,,True,,,,
+venta de hidrotek 2026,True,venta_entidad,True,Hidrotek,True,2026.0,True,,True,,,,
+top 5 clientes 2025,True,top,True,,True,2025.0,True,,True,True,clientes,True,5.0
+top vendedores 2024,True,top,True,,True,2024.0,True,,True,True,vendedores,True,10.0
+ranking de lineas 2025,True,top,True,,True,2025.0,True,,True,True,lineas,True,10.0
+top marcas este año,True,top,True,,True,2026.0,True,,True,True,marcas,True,10.0
+productos mas vendidos 2025,True,top,True,,True,2025.0,True,,True,True,productos,True,10.0
+top 3 vendedores,True,top,True,,True,,True,,True,True,vendedores,True,3.0
+que compro pesquera delfin azul en 2025,True,que_compro,True,Pesquera Delfín Azul,True,2025.0,True,,True,,,,
+top productos de minera condor de plata,True,que_compro,True,Minera Cóndor de Plata,True,,True,,True,,,,
+margen de la linea bombas 2025,True,margen,True,Bombas,True,2025.0,True,,True,,,,
+margen 2025,True,margen,True,,True,2025.0,True,,True,,,,
+rentabilidad de alimentos valle verde 2026,True,margen,True,Alimentos Valle Verde,True,2026.0,True,,True,,,,
+compara 2025 vs 2024,True,comparar,True,,True,2025.0,True,,True,,,,
+crecimiento de la linea filtros,True,comparar,True,Filtros,True,,True,,True,,,,
+resumen,True,resumen,True,,True,,True,,True,,,,
+como vamos,True,resumen,True,,True,,True,,True,,,,
+concilia el mayor con el detalle de 2025,True,conciliacion,True,,True,2025.0,True,,True,,,,
+que es el margen,True,conceptual,True,,True,,True,,True,,,,
+que es una nota de credito,True,conceptual,True,,True,,True,,True,,,,
+ventaz de minera azul,True,venta_entidad,True,,True,,True,,True,,,,
+la vida es bella,True,desconocido,True,,True,,True,,True,,,,

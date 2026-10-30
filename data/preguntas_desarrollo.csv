@@ -1,0 +1,38 @@
+pregunta,intent,entidad,dimension,anio,mes,limite
+hola,saludo,,,,,
+buenas tardes,saludo,,,,,
+gracias,agradecimiento,,,,,
+ayuda,ayuda,,,,,
+quien eres,identidad,,,,,
+venta 2025,venta_total,,,2025,,
+cuanto vendimos en 2024,venta_total,,,2024,,
+ventas de enero 2026,venta_total,,,2026,1,
+cuanto se facturo en marzo 2025,venta_total,,,2025,3,
+venta de este año,venta_total,,,2026,,
+venta Minera Cóndor de Plata 2025,venta_entidad,Minera Cóndor de Plata,,2025,,
+cuanto le vendimos a minera condor en marzo 2026,venta_entidad,Minera Cóndor de Plata,,2026,3,
+ventas de pesquera bahia serena 2024,venta_entidad,Pesquera Bahía Serena,,2024,,
+ventas de Ana 2025,venta_entidad,Ana Torres,,2025,,
+cuanto vendio carla mendoza el año pasado,venta_entidad,Carla Mendoza,,2025,,
+venta de la linea bombas 2026,venta_entidad,Bombas,,2026,,
+venta de hidrotek 2026,venta_entidad,Hidrotek,,2026,,
+top 5 clientes 2025,top,,clientes,2025,,5
+top vendedores 2024,top,,vendedores,2024,,10
+ranking de lineas 2025,top,,lineas,2025,,10
+top marcas este año,top,,marcas,2026,,10
+productos mas vendidos 2025,top,,productos,2025,,10
+top 3 vendedores,top,,vendedores,,,3
+que compro pesquera delfin azul en 2025,que_compro,Pesquera Delfín Azul,,2025,,
+top productos de minera condor de plata,que_compro,Minera Cóndor de Plata,,,,
+margen de la linea bombas 2025,margen,Bombas,,2025,,
+margen 2025,margen,,,2025,,
+rentabilidad de alimentos valle verde 2026,margen,Alimentos Valle Verde,,2026,,
+compara 2025 vs 2024,comparar,,,2025,,
+crecimiento de la linea filtros,comparar,Filtros,,,,
+resumen,resumen,,,,,
+como vamos,resumen,,,,,
+concilia el mayor con el detalle de 2025,conciliacion,,,2025,,
+que es el margen,conceptual,,,,,
+que es una nota de credito,conceptual,,,,,
+ventaz de minera azul,venta_entidad,,,,,
+la vida es bella,desconocido,,,,,

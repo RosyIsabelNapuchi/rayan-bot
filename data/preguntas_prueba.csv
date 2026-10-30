@@ -1,0 +1,41 @@
+pregunta,intent,entidad,dimension,anio,mes,limite
+buenos dias rayan,saludo,,,,,
+muchas gracias,agradecimiento,,,,,
+que puedes hacer,ayuda,,,,,
+como te llamas,identidad,,,,,
+dime la venta total de 2026,venta_total,,,2026,,
+cuanto facturamos en diciembre 2024,venta_total,,,2024,12,
+ventas 06/2025,venta_total,,,2025,6,
+cuanto se vendio el año pasado,venta_total,,,2025,,
+cuanto nos compro la conservera lobo marino en 2025,venta_entidad,Conservera Lobo Marino,,2025,,
+facturacion de constructora horizonte andino 2026,venta_entidad,Constructora Horizonte Andino,,2026,,
+ventas de minera vicuña dorada en febrero 2025,venta_entidad,Compañía Minera Vicuña Dorada,,2025,2,
+cuanto vendio diego huaman en 2026,venta_entidad,Diego Huamán,,2026,,
+ventas del vendedor felipe castro 2024,venta_entidad,Felipe Castro,,2024,,
+venta de la linea refrigeracion en julio 2026,venta_entidad,Refrigeracion,,2026,7,
+ventas de sellomar 2025,venta_entidad,Sellomar,,2025,,
+venta papelera del rimac,venta_entidad,Papelera del Rímac,,,,
+top 10 clientes 2026,top,,clientes,2026,,10
+los 5 mejores vendedores de 2025,top,,vendedores,2025,,5
+quienes nos compran mas este año,top,,clientes,2026,,10
+principales marcas 2024,top,,marcas,2024,,10
+top 15 productos 2026,top,,productos,2026,,15
+que lineas venden mas,top,,lineas,,,10
+que compro textil algodonera sur el año pasado,que_compro,Textil Algodonera Sur,,2025,,
+que productos le vendimos a minera quebrada azul en 2026,que_compro,Minera Quebrada Azul,,2026,,
+detalle de compra de envases pacifico norte,que_compro,Envases Pacífico Norte,,,,
+margen de minera cerro turquesa 2025,margen,Minera Cerro Turquesa,,2025,,
+cual es el margen de la marca filtrex,margen,Filtrex,,,,
+ganancia de la linea transmision 2026,margen,Transmision,,2026,,
+compara las ventas de 2026 con 2025,comparar,,,2026,,
+cuanto crecio pesquera corvina real,comparar,Pesquera Corvina Real,,,,
+variacion de bruno salazar 2025 vs 2024,comparar,Bruno Salazar,,2025,,
+dame un resumen del 2025,resumen,,,2025,,
+estado general,resumen,,,,,
+cuadra el mayor con el detalle?,conciliacion,,,,,
+diagnostico comercial vs financiero 2024,conciliacion,,,2024,,
+que es el ticket promedio,conceptual,,,,,
+explicame que es la conciliacion,conceptual,,,,,
+venta de minera los alamos 2025,venta_entidad,,,2025,,
+ventas de plasticos ribera en el mes pasado,venta_entidad,Plásticos Ribera,,2026,8,
+cual es el clima hoy,desconocido,,,,,

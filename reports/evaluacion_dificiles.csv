@@ -1,0 +1,21 @@
+pregunta,intent_ok,intent_obtenido,entidad_ok,entidad_obtenido,anio_ok,anio_obtenido,mes_ok,mes_obtenido,todo_ok,dimension_ok,dimension_obtenido,limite_ok,limite_obtenido
+oe cuanto le facturamos a la condor este año,True,venta_entidad,True,Minera Cóndor de Plata,True,2026.0,True,,True,,,,
+y a corvina real en el 2024?,True,venta_entidad,True,Pesquera Corvina Real,True,2024.0,True,,True,,,,
+como le fue a elena en ventas el 2025,True,venta_entidad,True,Elena Rojas,True,2025.0,True,,True,,,,
+quien fue el mejor vendedor del año pasado,False,venta_total,True,,True,2025.0,True,,False,False,,True,10.0
+cual fue el cliente que mas compro en 2024,False,venta_total,True,,True,2024.0,True,,False,False,,True,10.0
+lo que mas se vende de hidrotek,True,venta_entidad,True,Hidrotek,True,,True,,True,,,,
+q compro metalmecanica los olivos en oct 2025,False,venta_entidad,True,Metalmecánica Los Olivos,True,2025.0,True,10.0,False,,,,
+cuanto margen deja la linea de sellos,True,margen,True,Sellos,True,,True,,True,,,,
+ventas de servicios tecnicos el 2026,True,venta_entidad,True,Servicios tecnicos,True,2026.0,True,,True,,,,
+dame el top 20 de productos del 2024,True,top,True,,True,2024.0,True,,True,True,productos,True,20.0
+como vamos este año comparado con el anterior,False,resumen,True,,True,2026.0,True,,False,,,,
+cuanto cayeron las ventas de bombas,False,venta_entidad,True,Bombas,True,,True,,False,,,,
+vendimos mas en 2025 o en 2024,False,venta_total,True,,True,2025.0,True,,False,,,,
+resumen ejecutivo 2024,True,resumen,True,,True,2024.0,True,,True,,,,
+hay diferencias entre el mayor y el detalle en marzo 2026,True,conciliacion,True,,True,2026.0,True,3.0,True,,,,
+ventas de kallpa,True,venta_entidad,True,Ingeniería y Obras Kallpa,True,,True,,True,,,,
+cuanto vendimos a las pesqueras en 2025,True,venta_total,True,,True,2025.0,True,,True,,,,
+facturación de filtrex en el primer trimestre 2026,True,venta_entidad,True,Filtrex,True,2026.0,True,,True,,,,
+el margen de bruno salazar,True,margen,True,Bruno Salazar,True,,True,,True,,,,
+top 5,True,top,True,,True,,True,,True,True,clientes,True,5.0

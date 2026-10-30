@@ -1,0 +1,21 @@
+cliente_id,cliente,sector
+CLI-001,Minera Cóndor de Plata,MINERIA
+CLI-002,Compañía Minera Vicuña Dorada,MINERIA
+CLI-003,Minera Quebrada Azul,MINERIA
+CLI-004,Operaciones Mineras Puna Alta,MINERIA
+CLI-005,Minera Cerro Turquesa,MINERIA
+CLI-006,Servicios Mineros Huaylas,MINERIA
+CLI-007,Pesquera Delfín Azul,PESCA
+CLI-008,Pesquera Bahía Serena,PESCA
+CLI-009,Armadores Punta Brava,PESCA
+CLI-010,Conservera Lobo Marino,PESCA
+CLI-011,Pesquera Corvina Real,PESCA
+CLI-012,Metalmecánica Los Olivos,INDUSTRIA
+CLI-013,Plásticos Ribera,INDUSTRIA
+CLI-014,Alimentos Valle Verde,INDUSTRIA
+CLI-015,Textil Algodonera Sur,INDUSTRIA
+CLI-016,Papelera del Rímac,INDUSTRIA
+CLI-017,Envases Pacífico Norte,INDUSTRIA
+CLI-018,Constructora Horizonte Andino,CONSTRUCCION
+CLI-019,Concretos Tres Ríos,CONSTRUCCION
+CLI-020,Ingeniería y Obras Kallpa,CONSTRUCCION

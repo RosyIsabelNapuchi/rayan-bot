@@ -1,0 +1,21 @@
+pregunta,intent,entidad,dimension,anio,mes,limite
+oe cuanto le facturamos a la condor este año,venta_entidad,Minera Cóndor de Plata,,2026,,
+y a corvina real en el 2024?,venta_entidad,Pesquera Corvina Real,,2024,,
+como le fue a elena en ventas el 2025,venta_entidad,Elena Rojas,,2025,,
+quien fue el mejor vendedor del año pasado,top,,vendedores,2025,,10
+cual fue el cliente que mas compro en 2024,top,,clientes,2024,,10
+lo que mas se vende de hidrotek,venta_entidad,Hidrotek,,,,
+q compro metalmecanica los olivos en oct 2025,que_compro,Metalmecánica Los Olivos,,2025,10,
+cuanto margen deja la linea de sellos,margen,Sellos,,,,
+ventas de servicios tecnicos el 2026,venta_entidad,Servicios tecnicos,,2026,,
+dame el top 20 de productos del 2024,top,,productos,2024,,20
+como vamos este año comparado con el anterior,comparar,,,2026,,
+cuanto cayeron las ventas de bombas,comparar,Bombas,,,,
+vendimos mas en 2025 o en 2024,comparar,,,2025,,
+resumen ejecutivo 2024,resumen,,,2024,,
+hay diferencias entre el mayor y el detalle en marzo 2026,conciliacion,,,2026,3,
+ventas de kallpa,venta_entidad,Ingeniería y Obras Kallpa,,,,
+cuanto vendimos a las pesqueras en 2025,venta_total,,,2025,,
+facturación de filtrex en el primer trimestre 2026,venta_entidad,Filtrex,,2026,,
+el margen de bruno salazar,margen,Bruno Salazar,,,,
+top 5,top,,clientes,,,5
